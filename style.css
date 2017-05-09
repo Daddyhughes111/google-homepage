@@ -1,7 +1,21 @@
 .google {
-	width: 30em
-}
+	width: 30em;
+   }
 
 .input {
-	height: 3em
-}
+	height: 3em;
+   }
+
+.navbar {
+	colour:
+   }
+
+.search{
+     font-family: "Arial";
+     font-size: 15px;
+	 color: #737373;
+  }
+
+.input {
+    box-shadow: 2px 2px 2px #888888;
+  }
