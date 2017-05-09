@@ -1,13 +1,9 @@
 .google {
-	width: 30em;
+	width: 25em;
    }
 
 .input {
 	height: 3em;
-   }
-
-.navbar {
-	colour:
    }
 
 .search{
@@ -22,4 +18,8 @@
   
 .signin {
 	margin-right: 20px
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: #000000;
 }

@@ -1,0 +1,3 @@
+top right change sign in button
+change google search and im feeling lucky grid system so they are closer together
+fix bottom right black font
