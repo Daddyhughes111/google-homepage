@@ -16,10 +16,14 @@
     box-shadow: 2px 2px 2px #888888;
   }
   
-.signin {
-	margin-right: 20px
+.margin {
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-left: 10px;
 }
 
-.nav.navbar-nav.navbar-right li a {
-	color: #000000;
+.gimages {
+	margin-right: 20px;
+	margin-left: 10px;
+	color: #000000
 }
