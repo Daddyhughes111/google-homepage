@@ -1,7 +1,7 @@
 .google {
 	width: 25em;
    }
-
+   
 .input {
 	height: 3em;
    }
@@ -22,4 +22,9 @@
 
 .black {
 	color: #000000
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
